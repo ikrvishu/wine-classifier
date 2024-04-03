@@ -119,6 +119,8 @@ Proline is an amino acid found in grapes, wine, and yeast.
 It contributes to wine fermentation, nitrogen metabolism, and flavor development.
 Proline levels may reflect grape ripeness, vineyard conditions, and nitrogen availability during grape maturation.
 
+BUSINESS PERSPECTIVE OUTCOME
+
 From a business perspective, the outcomes of evaluating these classification models on the Wine recognition dataset provide valuable insights into their performance and potential impact on decision-making processes in the wine industry:
 
 Model Performance Assessment:
