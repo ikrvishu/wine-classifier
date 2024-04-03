@@ -54,6 +54,7 @@ Relevant Information:
 
 
 Understanding the chemical composition and sensory characteristics associated with each feature is crucial for assessing their importance in wine classification and differentiation strategies. let's analyze the chemical composition attributes commonly found in wine datasets after understanding the project
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Alcohol (Alchol):
@@ -121,7 +122,7 @@ Proline levels may reflect grape ripeness, vineyard conditions, and nitrogen ava
 
 
 BUSINESS PERSPECTIVE OUTCOME
-------------------------------------
+----------------------------
 
 From a business perspective, the outcomes of evaluating these classification models on the Wine recognition dataset provide valuable insights into their performance and potential impact on decision-making processes in the wine industry:
 
@@ -159,3 +160,31 @@ Continuous Improvement and Innovation:
 
 Ongoing evaluation and refinement of classification models enable businesses to adapt to evolving market trends and consumer preferences.
 By leveraging data-driven insights and feedback from model performance, businesses can drive continuous improvement initiatives and innovate new products and services to meet changing customer demands.
+
+------------------
+Mean and std of different models using scoring = 'f1-weighted'
+-----------------
+Logistic: 0.965819 (0.059203)
+
+NaiveBayes: 0.949093 (0.000312)
+
+KNN: 0.977110 (0.039647)
+
+DecisionTree: 0.903885 (0.043996)
+
+RandomForest: 0.966102 (0.034048)
+
+BoostedDT: 0.915462 (0.017917)
+
+BoostedLR: 0.977268 (0.026103)
+
+BoostedNB: 0.949468 (0.017253)
+
+GBoost: 0.943902 (0.019483)
+
+VotingC: 0.971930 (0.019564)
+
+StackingC: 0.977566 (0.025822)
+
+XGBoost: 0.955007 (0.025903)
+
